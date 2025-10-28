@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abu Hurara
-Frontend Developer | Vue.js | React.js | TypeScript | Nuxt.js | Tailwind CS <br>
+Frontend Developer | Vue.js | React.js | JavaScript | TypeScript | Tailwind CSS <br>
 
 
 ## 🌐 Socials:
